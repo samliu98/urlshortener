@@ -1,2 +1,3 @@
 # urlshortener
-with spring and redis
+with spring , maven and redis
+practicing spring
